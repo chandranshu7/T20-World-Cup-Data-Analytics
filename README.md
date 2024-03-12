@@ -28,7 +28,7 @@ Explore the insights generated from the previous T20 World Cup edition by follow
 Join the fun by participating in the Dream Team Challenge! I've crafted my ideal XI based on stellar stats, and I'm eager to compare notes with you. Share your ultimate data-driven lineup and let's create the ultimate dream team together.
 
 - Use the hashtag #DreamTeamChallenge on social media to share your lineup!
-- Connect on Twitter: [Your Twitter Handle](https://x.com/chandranshuve?s=21)
+- Connect on Twitter: [Twitter Handle](https://x.com/chandranshuve?s=21)
 
 ## Hashtags
 
