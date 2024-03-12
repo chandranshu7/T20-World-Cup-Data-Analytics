@@ -16,8 +16,8 @@ Welcome to the T20 World Cup Data Analytics Initiative! 🏏 This project was sp
 
 If you're ready to embark on a data-driven journey in the world of sports analytics, let's connect! Reach out if you're interested in exploring innovative approaches to sports data analysis.
 
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/chandranshu-verma/])
-- Email: [Your Email Address](mailto:chandranshuverma79@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/chandranshu-verma/)
+- Email: [Email Address](mailto:chandranshuverma79@gmail.com)
 
 ## Project Insights
 
